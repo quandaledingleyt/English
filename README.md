@@ -1,7 +1,6 @@
 ## Deployment
 
-Run these commands on your server:  
-`git clone https://github.com/NebulaServices/Nebula.git`  
+Run these commands on your server:    
 `pnpm i`  
 `npm run bstart`
 
